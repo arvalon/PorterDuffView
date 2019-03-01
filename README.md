@@ -1,0 +1,4 @@
+# Porter Diff
+From [Android User Interface Design: Implementing Material Design for Developers (Second Edition)](https://www.amazon.com/Android-User-Interface-Design-Implementing-ebook/dp/B018BI07P0)<br><br>
+[Android supports PorterDuff image](https://developer.android.com/reference/android/graphics/PorterDuff.Mode.html) compositing. Thomas Porter and Tom Duff wrote a seven-page paper titled “Compositing Digital Images” back in 1984 that explained methods of combining two or more images that have become extremely common in applications for mobile and desktop.<br>
+![Sample](https://media.giphy.com/media/ujTGQPBmkaGpNvjflg/giphy.gif)
